@@ -1,1 +1,13 @@
+# Ignore datasets
+*.csv linguist-detectable=false
+*.json linguist-detectable=false
 
+# Ignore AI model files
+*.pkl linguist-detectable=false
+*.h5 linguist-detectable=false
+*.pt linguist-detectable=false
+
+# Detect languages properly
+*.py linguist-language=Python
+*.css linguist-language=CSS
+*.html linguist-language=HTML
