@@ -9,6 +9,13 @@ The AI-Based Disease Detection Through Symptoms system is a web-based intelligen
   </span>
 </p>
 <p align="center"><em>Main Dashboard</em></p>
+
+<p align="center">
+  <span style="display:inline-block; border:10px solid #007BFF; padding:10px; border-radius:8px;">
+    <img src="assets/six ui.png" width="700" style="display:block;" />
+  </span>
+</p>
+<p align="center"><em>Main Dashboard</em></p>
 This project addresses a common problem in healthcare: early-stage disease identification. Many diseases share overlapping symptoms, which often leads to confusion and delayed diagnosis. This system provides a preliminary analysis tool that improves awareness and supports early decision-making.
 
 The application is implemented using a Flask-based web framework and integrates a trained neural network model for prediction. It operates locally and can be extended for real-world deployment.
