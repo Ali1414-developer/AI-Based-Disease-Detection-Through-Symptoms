@@ -12,7 +12,7 @@ The AI-Based Disease Detection Through Symptoms system is a web-based intelligen
 
 <p align="center">
   <span style="display:inline-block; border:10px solid #007BFF; padding:10px; border-radius:8px;">
-    <img src="assets/six ui.png" width="700" style="display:block;" />
+    <img src="assets/sixui.png" width="700" style="display:block;" />
   </span>
 </p>
 <p align="center"><em>Main Dashboard</em></p>
