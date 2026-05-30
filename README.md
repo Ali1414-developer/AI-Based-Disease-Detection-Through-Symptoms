@@ -4,8 +4,8 @@
 
 The AI-Based Disease Detection Through Symptoms system is a web-based intelligent healthcare assistant designed to predict diseases using machine learning techniques. The system analyzes user-provided symptoms and generates a probable disease along with comprehensive health-related information, including precautions, medications, diet plans, and workout suggestions.
 <p align="center">
-  <span style="display: inline-block; padding: 8px; border: 3px solid #000; border-radius: 10px;">
-    <img src="assets/seven.png" width="700" />
+  <span style="display:inline-block; border:4px solid #007BFF; padding:6px; border-radius:8px;">
+    <img src="assets/seven.png" width="700" style="display:block;" />
   </span>
 </p>
 <p align="center"><em>Main Dashboard</em></p>
