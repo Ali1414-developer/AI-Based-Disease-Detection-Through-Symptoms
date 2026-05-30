@@ -48,8 +48,26 @@ The frontend is responsible for user interaction. It is built using HTML, CSS, a
 Responsibilities:
 
 * Accepting user input (symptoms)
+  <p align="center">
+  <span style="display:inline-block; border:10px solid #007BFF; padding:10px; border-radius:8px;">
+    <img src="assets/eight.png" width="700" style="display:block;" />
+  </span>
+</p>
+<p align="center"><em>Main Dashboard</em></p>
 * Displaying prediction results
+<p align="center">
+  <span style="display:inline-block; border:10px solid #007BFF; padding:10px; border-radius:8px;">
+    <img src="assets/nine.png" width="700" style="display:block;" />
+  </span>
+</p>
+<p align="center"><em>Main Dashboard</em></p>
 * Showing additional health recommendations
+<p align="center">
+  <span style="display:inline-block; border:10px solid #007BFF; padding:10px; border-radius:8px;">
+    <img src="assets/ten.png" width="700" style="display:block;" />
+  </span>
+</p>
+<p align="center"><em>Workout detail</em></p>
 * Providing a clean and responsive user interface
 
 ### 2. Backend Layer
